@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680797790405",
+    "project_id": "eczane-ilac-kayit",
+    "storage_bucket": "eczane-ilac-kayit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680797790405:android:d491e68cafeb416abe90ac",
+        "android_client_info": {
+          "package_name": "com.example.eczaneilackayit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDF-KYq0AlTqjmErPiaUk-ufVJCltovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
